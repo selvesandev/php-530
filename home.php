@@ -11,5 +11,8 @@
 
 <h1>Home</h1>
 
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consequuntur cupiditate delectus dignissimos, ducimus
+	inventore iusto perspiciatis quae quo quos. Doloribus enim facilis minima nam quos rerum suscipit tenetur velit.</p>
+
 </body>
 </html>
