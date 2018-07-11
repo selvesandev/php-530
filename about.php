@@ -11,5 +11,7 @@
 
 <h1>About</h1>
 
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium animi, aspernatur commodi consectetur, debitis dolor doloremque doloribus ea eligendi fuga in iste maiores molestias natus porro sunt veniam voluptates.</p>
+
 </body>
 </html>
